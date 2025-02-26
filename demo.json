@@ -3,9 +3,9 @@
     "img_id": 35,
     "question": "What's the point of showing the Empire State Building in this chart?",
     "A": "To show that the Empire State Building saved the most carbon dioxide.",
-    "B": "To give a clear view of how much carbon dioxide is saved.", 
-    "C": "To form a sharp contrast in color with black coal.",
-    "D": "To make the chart more appealing.",
+    "B": "To give a more clear view of how much the carbon dioxide is saved", 
+    "C": "To make contrast with the black coal",
+    "D": "To make the chart more appealing",
     "answer": "B"
   },
   "1": {
@@ -13,53 +13,62 @@
     "question": "What does the act of \"pulling the plug\" represent for the companies?",
     "A": "Getting failed and quitting China's market.",
     "B": "Establishing a partnership with China.",
-    "C": "Halting all business activities.",
+    "C": "Withdrawn from market.",
     "D": "Losting connection with China.",
     "answer": "A"
   },
   "2": {
     "img_id": 24,
     "question": "The use of a familiar object (the plug) helps viewers quickly grasp the core concept, which is...?",
-    "A": "Companies in China are using electricity.",
+    "A": "Companies in China are using electricity",
     "B": "Companies need to stay for a long time in China.",
-    "C": "The general failure of American companies in China.",
-    "D": "American companies need more effort to stay in China.",
+    "C": "The often failure of American companies' in China.",
+    "D": "America companies need more effort to stay in China",
     "answer": "C"
   },
   "3": {
     "img_id": 25,
-    "question": "Compared with other ships, the \"Container\" ships are at a greater distance from the shore, which is mainly to emphasize:",
-    "A": "The higher speed of container ships.",
+    "question": "The far distance to the shore of the \"Container\" ship illustration, relative to others, is primarily intended to emphasize:\n",
+    "A": "The higher speed of container ships",
     "B": "The greater number of crossings.",
     "C": "The lower environmental impact of container shipping.",
-    "D": "The larger capability of container ships associated with different market segment.",
+    "D": "The larger capability of container ships associated with different market segment",
     "answer": "B"
   },
   "4": {
     "img_id": 26,
-    "question": "What does the size of terraces in the chart stand for?",
-    "A": "The size of each country's territory.",
-    "B": "The number of rice plants.",
-    "C": "The population lives on rice as a staple food.",
-    "D": "The amount of rice produced.",
+    "question": "What does the terrace in the chart stand for?",
+    "A": "Different rice producers",
+    "B": "Varies types of rices",
+    "C": "China has the most rice production in the world",
+    "D": "Rice production",
     "answer": "D"
+  },
+  "5": {
+    "img_id": 35,
+    "question": "What's the point of showing the Empire State Building in this chart?\n",
+    "A": "To show that the Empire State Building saved the most carbon dioxide.",
+    "B": "To give a more clear view of how much is saved",
+    "C": "To make contrast with the black coal",
+    "D": "To make the chart more appealing",
+    "answer": "B"
   },
   "6": {
     "img_id": 45,
-    "question": "What is the purpose of using the visual element of forks in the chart?",
-    "A": "The use of a red fork is intended to remind viewers that KFC is a fast food brand, because the typical color for KFC is red",
-    "B": "The fork's tines are ingeniously integrated with the bar chart, highlighting the restaurant theme while echoing the \"Fork it\" concept.",
-    "C": "The contrasting fork colors symbolize the tense rivalry between the two restaurant types, showing one type must beat the other.",
-    "D": "The oblique forks is used to indicate the declining sales of these restaurants.",
+    "question": "The use of forks in the chart is for what purpose?",
+    "A": "The typical color for KFC is red, so the use of red fork is to remind the viewer that KFC is a fast food.",
+    "B": "To coordinate and align with key word \"restaurant\" and \"fork\"",
+    "C": "The contrastive color shows the competing and nervous fact of two types of restaurant, and the phrase \"fork it\" also implies this fact. So one type must beat the other.",
+    "D": "Rubio's and KFC are always considered as a symbol of forks in tradition. So using forks is the best way to stand for them.",
     "answer": "B"
   },
   "7": {
     "img_id": 1,
     "question": "What is the *predominant* emotion in this chart?",
-    "A": "The fear of blood.",
-    "B": "The horror of death.",
-    "C": "The amazement at quantity.",
-    "D": "The indifference of society.",
+    "A": "Horror for Iraq's bloody toll",
+    "B": "Sorrow",
+    "C": "Excitement",
+    "D": "Indifference",
     "answer": "B"
   },
   "8": {
@@ -74,10 +83,10 @@
   "9": {
     "img_id": 17,
     "question": "Why there are three beds in the chart?",
-    "A": "To show that the expenditures are lying on the beds.",
-    "B": "The beds are stand for 'hospital beds' to align with the medical care theme.",
-    "C": "To show the charts are lying horizontally.",
-    "D": "To convey the idea that medical care requires rest and recovery.",
+    "A": "To show that the expenditures need to rest on the bed.",
+    "B": "The bed is described as \"hospital bed\" to fit in the theme of medical care",
+    "C": "To make the medical care expenditures more vivid",
+    "D": "The hospital bed is to imply that the expenditures are in a vulnerable or problematic state, aligning with the idea of medical care costs being a burden.",
     "answer": "B"
   },
   "10": {
@@ -86,22 +95,22 @@
     "A": "The average employment cost for each country.",
     "B": "The danger involved in steelwork.",
     "C": "A steelworker's employment cost for each country.",
-    "D": "The sparks made during the steel production.",
+    "D": "The sparks that are made during the steel production.",
     "answer": "C"
   },
   "11": {
     "img_id": 22,
-    "question": "Does the image convey any emotion, and if so, what specific emotion does it convey?",
-    "A": "Expectations for the development of steel industry.",
-    "B": "Concerns about the safety of steelworkers' working conditions.",
+    "question": "The overall emotion conveyed by the chart's imagery is best described as",
+    "A": "Calm and reassuring.",
+    "B": "Concerning for the high employment cost of U.S.",
     "C": "Dynamic to the promising future of the steelworkers",
-    "D": "It conveys no particular emotion.",
+    "D": "Objective and neutral",
     "answer": "D"
   },
   "12": {
     "img_id": 27,
-    "question": "What emotion does the use of bright and vibrant red in the chart bring to the viewers?",
-    "A": "It brings a sense of safty for the wide use of surveillance, because red is always considers as a symbol of happiness and safty",
+    "question": "The overall visual impact of the chart brings the viewer what emotion, especially the use of bright and vibrant red:\n",
+    "A": "Red is always considers as a symbol of happiness and safty . So it brings a sense of safty because of the wide use of surveillance.",
     "B": "Relaxed about surveillance.",
     "C": "Potentially uneasy about surveillance.",
     "D": "Excited and eager to the use of surveillance, since the use of red is always considers as excitement and happiness.",
@@ -118,7 +127,7 @@
   },
   "14": {
     "img_id": 36,
-    "question": "What might be the purpose of drawing a fish in the chart?",
+    "question": "What might be the purpose of drawing a fish in the chart?\n",
     "A": "To remind the viewer the theme of \"a dieta pirarucu\".",
     "B": "The fish drawing visually highlights the specific food category that makes up 47.6% of the pirarucu's diet, helping to illustrate this key point in the chart.",
     "C": "To show that pirarucu eats various food.",
@@ -127,7 +136,7 @@
   },
   "15": {
     "img_id": 37,
-    "question": "The overall visual design expresses what emotion:",
+    "question": "The overall visual design expresses what emotion:  \n",
     "A": "\"No way\" is an old saying for the appreciation of whaling, so the overall emotion is surprised for whaling practices.",
     "B": "It shows the fact that Norway has catches most whales for the year 2015, making \"No way\" for whales in Norway.",
     "C": "It aims to highlighting the disparity in whale catches by country, with a particular focus on Norway's significant contribution.",
@@ -164,7 +173,7 @@
   },
   "19": {
     "img_id": "4",
-    "question": "The shrinking silhouette of the child in the family likely represents:",
+    "question": "The shrinking silhouette of the child in the family likely represents:\n",
     "A": "The decreasing number of children in families.",
     "B": "The impact of economic pressure on future generations.",
     "C": "The literal height of children in 2009.",
@@ -174,7 +183,7 @@
   },
   "20": {
     "img_id": "5",
-    "question": "The overall emotional impact of the chart is best described as:",
+    "question": "The overall emotional impact of the chart is best described as:\n",
     "A": "Neutral and objective.",
     "B": "Hope for Japan's territorial expansion.",
     "C": "Sympathetic to the Japanese plight.",
@@ -184,7 +193,7 @@
   },
   "21": {
     "img_id": "6",
-    "question": "What may the figure of the man holding the barrel try to convey?",
+    "question": "What may the figure of the man holding the barrel try to convey?\n    ",
     "A": "To hope for increasing oil production.",
     "B": "The physical process of oil extraction and its challenges",
     "C": "To show the pressure and concern about the decreasing  OPEC's current-account balance.",
@@ -194,7 +203,7 @@
   },
   "22": {
     "img_id": "7",
-    "question": "The overall visual presentation aims to convey which idea:",
+    "question": "The overall visual presentation aims to convey which idea:\n    ",
     "A": "The challenge of the increasing inflation needs to be addressed.",
     "B": "Addressing the increasing inflation needs to effort of families.",
     "C": "The total inflation of C.P.I is growing higher and higher over time.",
@@ -204,7 +213,7 @@
   },
   "23": {
     "img_id": "8",
-    "question": "The tenor of the vehicle \"belt\" is best described as:",
+    "question": "The tenor of the vehicle \"belt\" is best described as:\n\n    ",
     "A": "New York city",
     "B": "The act of reducing spending or resources",
     "C": "The job loss that cities are facing",
@@ -214,7 +223,7 @@
   },
   "24": {
     "img_id": "8",
-    "question": "What is the main idea of the chart try to convey?",
+    "question": "What is the main idea of the chart try to convey?\n",
     "A": "The job loss of New York is making it struggle.",
     "B": "New York city is trying to ignore the damage brought by the job loss.",
     "C": "The job loss is being solved due to the city's effort.",
@@ -224,7 +233,7 @@
   },
   "25": {
     "img_id": "9",
-    "question": "2. The image help viewers understand \"per capita consumption\":",
+    "question": "2. The image help viewers understand \"per capita consumption\":\n    ",
     "A": "Calculating per capita consumption.",
     "B": "Providing a human body as the container to hold liquid.",
     "C": "Providing the formula of calculating.",
@@ -234,7 +243,7 @@
   },
   "26": {
     "img_id": "10",
-    "question": "Why might the person in the chart wearing a worried facial expression?",
+    "question": "Why might the person in the chart wearing a worried facial expression?\n    ",
     "A": "To show the person's anger because his packet has beem stolen.",
     "B": "To show the person's embarrassment because his packet is empty.",
     "C": "To reflect the anxiety associated with decreasing disposable income.",
@@ -244,7 +253,7 @@
   },
   "27": {
     "img_id": "12",
-    "question": "By comparing the #MeToo movement to dandelion, the chart try to show that:",
+    "question": "By comparing the #MeToo movement to dandelion, the chart try to show that:\n    ",
     "A": "The movement is a light movement without heavy burden, just like dandelion.",
     "B": "The movement has taken root all over the world with wide spread.",
     "C": "The movement is organically and naturally taking place, just like dandelion.",
@@ -254,7 +263,7 @@
   },
   "28": {
     "img_id": "14",
-    "question": "The choice of a \"monster\" primarily aims to make the viewer feel:",
+    "question": "The choice of a \"monster\" primarily aims to make the viewer feel:\n   ",
     "A": "Excited and engaged",
     "B": "Concerned and apprehensive",
     "C": "Neutral and objective",
@@ -264,7 +273,7 @@
   },
   "29": {
     "img_id": "15",
-    "question": "The use of the woman's legs to form the chart primarily draws attention to:",
+    "question": "The use of the woman's legs to form the chart primarily draws attention to:\n    ",
     "A": "The increase in prices from 1978 to 1980.",
     "B": "The fall in prices after 1980.",
     "C": "The stability of prices between 1981 and 1982.",
@@ -274,7 +283,7 @@
   },
   "30": {
     "img_id": "16",
-    "question": "The depiction of water being \"lost\" through a leaking tap evokes a sense of:",
+    "question": "The depiction of water being \"lost\" through a leaking tap evokes a sense of:\n    ",
     "A": "Calm and abundance for water source.",
     "B": "Urgency and concern about water waste.",
     "C": "Sorrow for the wasted water.",
@@ -284,7 +293,7 @@
   },
   "31": {
     "img_id": "18",
-    "question": "The primary purpose of using the horse and rider metaphor in this chart is to:",
+    "question": "The primary purpose of using the horse and rider metaphor in this chart is to:\n    ",
     "A": "Show the rapid increase of oil prices, which is like a running horse.",
     "B": "Illustrate the potential giant gain of gas tax.",
     "C": "Dramatize the escalating challenge and strain imposed by rising oil prices.",
@@ -294,7 +303,7 @@
   },
   "32": {
     "img_id": "20",
-    "question": "The use of a swimming race metaphor is primarily intended to evoke what feeling or concept?",
+    "question": "The use of a swimming race metaphor is primarily intended to evoke what feeling or concept?\n    ",
     "A": "The collaborative spirit among Olympic sponsors.",
     "B": "The competitive struggle for online visibility among brands.",
     "C": "The leisurely pace of online brand discovery.",
@@ -304,7 +313,7 @@
   },
   "33": {
     "img_id": "20",
-    "question": "What is the tenor of the \"swimmers\" in this visual metaphor?",
+    "question": "What is the tenor of the \"swimmers\" in this visual metaphor?\n    ",
     "A": "Different brands.",
     "B": "The brands' positions in search results.",
     "C": "Olympic athletes sponsored by the brands.",
